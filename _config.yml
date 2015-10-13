@@ -1,6 +1,7 @@
 name: cowgirl
 favicon: null
 layout_spectrum: 0.2973
+title: Cowgirl
 cta:
   domain: null
   bucket: null
