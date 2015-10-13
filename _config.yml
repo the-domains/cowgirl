@@ -1,4 +1,4 @@
-name: null
+name: cowgirl
 favicon: null
 layout_spectrum: 0.8
 cta:
@@ -15,8 +15,11 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0
+  brandStrength: 0.8125
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose: []
+purpose:
+  - name: awareness
+    item: null
+    url: null
